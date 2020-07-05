@@ -1,2 +1,1 @@
-# COVID-19-Diet
-# TBD
+# :pineapple: :grapes: Better Diet to fight Covid-19 :banana: :watermelon:
