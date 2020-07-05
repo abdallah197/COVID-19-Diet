@@ -11,4 +11,4 @@ Data is gathered by this fantastic Kagggler [Maria Ren](https://www.kaggle.com/m
     for each country, it demonstrates the protein consumption percentages distributed amongst all food categories. 
 * Food Supply Data in Kcal:-
     for each country, it demonstrates the energy intake consumption percentages distributed amongst all food categories. 
-Full EDA is found on EDA/final-EDA.ipynb notebook and the modeling is on modeling.ipynb.
+Full EDA is found on EDA.ipynb notebook and the modeling is on modeling.ipynb.
