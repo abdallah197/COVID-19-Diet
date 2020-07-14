@@ -2,7 +2,7 @@
 Using Machine Learning, We try to analyze the food consumption from countries all over the world to see whether there's a relationship between given country food habits and their recovery rate.
 
 ## Dataset
-Data is gathered by this fantastic Kagggler [Maria Ren](https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset).  Data is divided into four datasets, they all have the same 170 rows, which are all countries, and same columns, which are 23 different food categories and COVID-19 statistics for each country. All four datasets share the same values of the columns of COVID-19 statistics for each country, the difference between them is explained as follows:-
+Data is gathered by this fantastic Kaggler [Maria Ren](https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset).  Data is divided into four datasets, they all have the same 170 rows, which are all countries, and same columns, which are 23 different food categories and COVID-19 statistics for each country. All four datasets share the same values of the columns of COVID-19 statistics for each country, the difference between them is explained as follows:-
 * Fat Supply Quantity Data:-
     for each country, it demonstrates the fat consumption percentages distributed amongst all food categories. 
 * Food Supply Quantity in Kg:- 
